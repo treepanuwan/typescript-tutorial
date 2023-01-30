@@ -34,3 +34,4 @@ credit: Kanthima Muangsen
 
 Step 1
 - ติดตั้ง complier typescript เสียก่อน
+- ทดสอบ hello world
